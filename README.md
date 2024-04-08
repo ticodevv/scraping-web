@@ -20,10 +20,10 @@ python3 main.py
 
 ### Modification 
 
-Pour   modifier le site à scraper, vous pouvez modifier la variable `url` dans le fichier `main.py`:
+Pour modifier le site à scraper, vous pouvez modifier la variable `url` dans le fichier `main.py`:
 
 ```python
-driver.get('https://sandbox.oxylabs.io/products')
+    driver.get('https://sandbox.oxylabs.io/products')
 ```
 
 Pour modifier les valeurs à scraper, vous pouvez modifier les valeurs dans le fichier `main.py`:
