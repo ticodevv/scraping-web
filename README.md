@@ -39,3 +39,14 @@ modifiez la valeur de la clé `price` pour changer le prix du produit:
 ```
 
 Nous trouvon ces elements en inspectant le site web. Ce sont des baliises HTML.
+
+
+# roulette
+
+Nous avons aussi fais une roulette en python. Pour lancer la roulette, vous pouvez utiliser la commande suivante:
+
+```bash
+python3 roulette.py
+```
+
+La roulette est un jeu de hasard dans lequel chaque joueur, assis autour d'une table de jeu, mise sur un ou plusieurs numéros, une couleur, la hauteur ou la parité du numéro qu'il espère être tiré. Le tirage du numéro s'effectue à l'aide d'une bille jetée dans un récipient circulaire tournant et muni d'encoches ayant des numéros de différentes couleurs.
