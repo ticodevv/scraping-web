@@ -133,3 +133,5 @@ hskusd
 24 : jumwuf
 25 : itlvte
 ```
+
+On a trouvé le message original qui est "pascal" avec un décalage de 18
