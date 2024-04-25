@@ -1,6 +1,6 @@
 # decrypte un chiffre de Cesar avec un dictionnaire de frequences 
 # les frequences des 4-grammes sont stockees dans le fichier brut4g_fr.txt
-# 
+
 from math import log10
 
 majuscules = "ABCDEFGHIJKLMNOPQRSTUVWXYZ" # alphabet en majuscules

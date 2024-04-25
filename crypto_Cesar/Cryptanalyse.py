@@ -53,3 +53,4 @@ for clef in range(1,26):
         print(end=" ")
     print(clef,":",texte_decode)
 
+    
